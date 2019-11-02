@@ -1,0 +1,203 @@
+#以下的几个点对我帮助很大
+
+学会使用搜索引擎，问题的中英文切换，使用google
+看《提问的智慧》，在问问题之前学会先把问题问对路
+写博客，写笔记，总结自己的学习心得
+
+
+提问的智慧
+https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
+
+岚光的js反混淆方法
+https://0x0d.im/archives/javascript-anti-debug-and-obfuscator.html
+
+#蔡老板 菜鸟学Python编程
+json数据（一）
+https://mp.weixin.qq.com/s/Lzb809M3GNJ2hi1m-L56Pw
+
+debugger（二）
+https://mp.weixin.qq.com/s/mZ-MBC2KbIlbXIKvamwq7Q
+
+字体反爬（三）
+url是base64加密的，https://g.hongshu.com/content/93416/13877912.html
+https://mp.weixin.qq.com/s/yAab5lkkcgyf5sO1-PA8MQ
+https://mp.weixin.qq.com/s/Wxov5SoWGYjOdJzhsyKLJw
+
+七麦 js入口查找（四）
+https://mp.weixin.qq.com/s/3_AGY6ed5ub26Uvk428B8w
+
+欢欢 js入口查找（五）
+https://mp.weixin.qq.com/s/e39SdyAQwIegVJoEFGz_mg
+目标网址:
+谷歌学术镜像=http://ac.scmor.com/ 没找到加密位置
+换购=https://www.huanhuanhuishou.com/gujia/47.html✅
+中国空气质量=https://www.aqistudy.cn/html/city_detail.html✅
+知道字符替换，没找到解密的地方=https://g.hongshu.com/content/93416/13877912.html
+
+post请求参数加密
+
+glidesky (六)
+https://mp.weixin.qq.com/s/Er5Zceguvk-ogpCeDcLYyA
+
+全局变量查找（七）
+https://mp.weixin.qq.com/s/eVDwmQVmZNbkSwih3EfYUg
+https://mp.weixin.qq.com/s/Z4bOQPJqLqkKfWVLUl3Idw
+
+美团 VM窗口（八）
+VM里面是动态生成的js,在nodejs运行需要构造条件
+https://mp.weixin.qq.com/s/C-FOcQL7s70f19xAXGN2-Q
+
+亚马逊 找加密函数位置（九）
+https://mp.weixin.qq.com/s/RDNVIhW5LMjVSTv9p3mUYg
+美化、抠代码
+https://mp.weixin.qq.com/s/EveWkJMI6er_xqA9wsd9uQ
+
+js python调用作业
+https://mp.weixin.qq.com/s/EGH3mM8sFj52QvGIRyKf5A✅2019/10/09
+
+curl分析参数 参数自动写成python代码
+https://mp.weixin.qq.com/s/iBU7K65DtinvCOlFcqWLBw✅2019/10/09
+
+安卓逆向学习路线
+https://mp.weixin.qq.com/s/olJ-WYkqOVI1TIbKmYsSIw
+==========================================================================
+#陈祥安 Python学习开发
+窗口最大化
+options.addArguments("--window-size=4000,1600");
+
+js反混淆的概念
+https://mp.weixin.qq.com/s/qt_JRZvl3z9auvQaXvOB5A✅
+beautifier.io可以跑出来效果，本地复制粘贴不行，eval不执行，不知道该怎么写
+已解决，粘贴eval里面的内容
+
+
+https://mp.weixin.qq.com/s/5YiT2T30KMLZ4qqPLw1WHA
+
+微博登录加密参数
+https://mp.weixin.qq.com/s/dMCPc9HSmieqs67YjPtezw
+
+js基础功能
+https://mp.weixin.qq.com/s/fEWzNb827vtICPeTT1jsVg
+https://mp.weixin.qq.com/s/V-vJXDu1h77Jc1K5DJvvNA
+
+企名片 加密参数
+https://mp.weixin.qq.com/s/UP3EiMIuUV5jSQZIP7FJ8A
+
+七麦 加密参数
+http://www.threetails.xyz/2019/05/19/%E5%88%9D%E6%8E%A2js%E9%80%86%E5%90%91%EF%BC%88%E4%BA%8C%EF%BC%89/
+
+药监局 debugger
+https://mp.weixin.qq.com/s/udpWbpwPokXYRB5LZmD2bA
+
+============================================================================
+#妄为写代码
+sensor_data思路参考
+https://mp.weixin.qq.com/s/e9ufmAOrEOSiXDLvu3Qtpw
+
+加速乐 eval cookie
+https://mp.weixin.qq.com/s/TbHMQLGbW3a095UYQsQ2iw
+
+distill 类似于sensor_data思路
+https://mp.weixin.qq.com/s/2AEpOX60d9on_J3K4M0JMA
+
+七麦 加密参数
+https://mp.weixin.qq.com/s/1E_ONUnMwTFozd9-dB70Yw
+
+Incapsula 加密参数
+https://mp.weixin.qq.com/s/siDf0ZikDNy36tPJCphqdw
+
+pdd anti参数
+方法怎么执行？
+https://mp.weixin.qq.com/s/kj6RPBPdt8pyoSHzXQm87A
+https://mp.weixin.qq.com/s/jWquj66gZtamX25t6pNHlw
+
+============================================================================
+
+
+#咸鱼学python
+
+jsfuck风格的js
+https://mp.weixin.qq.com/s/poXgxVcEHnJfVtwZ7qoyZw
+
+财新社 xhr请求参数分析，勾选xhr监听
+https://mp.weixin.qq.com/s/8mV8B5SiPc0N2ZHJP4kxWQ
+
+js混淆
+https://mp.weixin.qq.com/s/5pp1vd00O-JHeAf6loaYfg
+
+js加密
+https://mp.weixin.qq.com/s/dMxaJDTChzkaxgwI5lQyqQ
+
+淘大象debugger 条件断点✅2019/10/09
+条件断点，要运行到这里再设置条件才有效，而不是一开始就设置好，
+js抽丝剥茧，拆出来发现是一个md5加密
+https://mp.weixin.qq.com/s/HQDcrnxRMP9B--r4N8g-ZA
+正：
+大佬，貌似升级了，条件断点添加也还在debugger,本地映射文件注释了以后特别吃内存，自定义函数也没覆盖，求指点迷津
+作者：
+找到debugger的地方，在行号的地方右键，选择 never pause here，然后再点一下页面正中的箭头就跳过了。
+
+eval js解密
+https://mp.weixin.qq.com/s/RcZ0riXzVN0ywE3JKD9Bmg
+
+企名片 js解密
+https://mp.weixin.qq.com/s/Hxt39LSvNsqm17bgfrjddQ
+
+eval 加速乐参数
+https://mp.weixin.qq.com/s/7dNbufy1RvXIsHjcj8NgiA
+
+qq空间密码加密
+https://mp.weixin.qq.com/s/6t9V5HIRagye4ZQlgkHgew
+
+梦幻西游 陆金所会员登录 rsa xxtea加密
+https://mp.weixin.qq.com/s/hkAJt85Ogi4Fxhgz8gHZTA
+验证码输入不了
+
+des base64加密
+https://mp.weixin.qq.com/s/e0jFdh0hz4ro89i80SJuRA
+
+==========================================================
+
+Python编程与实战
+州的先生
+毛利学python
+Python攻城狮
+木下学Python
+算法与数据之美
+zuobangbang（https://github.com/zuobangbang）
+风中的承诺i
+极客学习空间
+小白数据分析成长经历
+学习python的正确姿势
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
